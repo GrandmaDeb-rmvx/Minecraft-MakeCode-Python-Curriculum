@@ -10,6 +10,7 @@ By intentionally limiting the command set, students focus on understanding essen
 # Comment
 player.say()
 loops.pause()
+```
 
 📚 Lessons in This Unit
 This unit includes the following lessons:
