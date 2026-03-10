@@ -56,6 +56,3 @@ Check back for updates!
  
 📬 Contact
 If you have questions, suggestions, or want to collaborate, feel free to open an issue or reach out.
- 
-
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/7388c1a8-4c0f-4652-9275-dd5abec76e78" />
