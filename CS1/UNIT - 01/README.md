@@ -12,17 +12,19 @@ player.say()
 loops.pause()
 ```
 
-📚 Lessons in This Unit
+## 📚 Lessons in This Unit
+
 This unit includes the following lessons:
 
-U01L01 — Hello World! - Communication
-U01L02 — In the World - Create
-U01L03 — Code with Variables and Data Types
-U01L04 — [Add title]
-U01L05 — [Add title]
-U01L06 — [Add title]
-U01L07 — [Add title]
-U01L08 — [Add title]
+- **U01L01 — Hello World! / Communication**
+- **U01L02 — In the World / Create**
+- **U01L03 — Code with Variables and Data Types**
+- **U01L04 — [Add title]**
+- **U01L05 — [Add title]**
+- **U01L06 — [Add title]**
+- **U01L07 — [Add title]**
+- **U01L08 — [Add title]**
+
 
 Each lesson folder contains materials such as:
 
@@ -38,7 +40,9 @@ related videos or external links
 Many students —as well as their teachers— are eager to introduce a wide variety of commands right away. By guiding learners through this unit with only two primary commands (plus comments), students gradually develop familiarity with Python syntax, debugging processes, computer science terminology, and foundational Minecraft MakeCode skills.
 Classroom routines (naming work, sharing projects, organizing files) are also developed here. Students who finish early can help peers, expand their projects, complete an enrichment puzzle, or move ahead to the next lesson.
 
-📂 Folder Structure
+
+## 📂 Folder Structure
+```
 Unit-01
    U01L01
    U01L02
@@ -48,3 +52,4 @@ Unit-01
    U01L06
    U01L07
    U01L08
+```
