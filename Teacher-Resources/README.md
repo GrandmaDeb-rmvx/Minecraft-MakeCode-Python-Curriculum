@@ -52,3 +52,5 @@ Files in `Teacher-Resources` must **NOT** use unit prefixes (U00, U01, etc.).
 They support *multiple* units and do not belong to a specific lesson.
 
 Correct:
+Coding-Editor-Guide-TF.docx
+Naming-Conventions-TF.pdf
