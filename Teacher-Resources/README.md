@@ -1,6 +1,6 @@
 # Teacher Resources
 
-This folder contains **global**, **reusable**, and **teacher-facing** curriculum materials that support all CS1 units. These resources are not tied to a single lesson or unit. Lesson-specific files (slides, code, activities, assessments) live inside the lesson folders (e.g., `CS1/Unit-01/U01L03/`).
+This folder contains **global**, **reusable**, and **teacher-facing** curriculum materials that support all CS1 units, as well as future Middle School and APCSP materials. These resources are not tied to a single lesson or unit. Lesson-specific files (slides, code, activities, assessments) live inside the lesson folders (e.g., `CS1/Unit-01/U01L03/`).
 
 This folder is meant to help teachers:
 - prepare for instruction  
@@ -79,12 +79,11 @@ While this folder only uses **TF** and **SF**, lesson folders use additional suf
 
 Lesson folder example:
 ```
-U01L03-SD.pptx
-U01L03-SD.pdf
-U01L03-CODE.mkcd
-U01L03-CODE.txt
-U01L03-FA.pdf
-U01L03-KEY.pdf
+U01L03-Tell-a-Story-SD.pptx
+U01L03-Tell-a-Story-Student-Guide-SF.pdf
+U01L03-Tell-a-Story-CODE.mkcd
+U01L03-Tell-a-Story-CODE.txt
+U01L03-Tell-a-Story-Lesson-Plan_TF.pdf
 ```
 
 ---
