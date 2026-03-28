@@ -38,4 +38,5 @@ Unit 00 prepares students to access all required platforms and tools before begi
 - Student devices with Minecraft Education installed
 
 Login Directions  
-Teacher-Resources/Set-up-for-Coding-in-Minecraft-MakeCode-Python-TF.docx
+
+→ ../../Teacher-Resources/Set-up-for-Coding-in-Minecraft-MakeCode-Python-TF.docx
