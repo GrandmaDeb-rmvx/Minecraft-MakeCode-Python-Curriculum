@@ -36,7 +36,4 @@ Unit 00 prepares students to access all required platforms and tools before begi
 - Office.com credentials  
 - Access to Minecraft.MakeCode.com  
 - Student devices with Minecraft Education installed
-
-Login Directions  
-
-→ ../../Teacher-Resources/Set-up-for-Coding-in-Minecraft-MakeCode-Python-TF.docx
+- Login Directions — [Teacher Setup Guide](../../Teacher-Resources/Set-up-for-Coding-in-Minecraft-MakeCode-Python-TF.docx)
