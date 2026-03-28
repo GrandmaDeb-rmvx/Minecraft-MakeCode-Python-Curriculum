@@ -35,10 +35,7 @@ Unit 00 prepares students to access all required platforms and tools before begi
 - School email login credentials  
 - Office.com credentials  
 - Access to Minecraft.MakeCode.com  
-- Student devices with Minecraft Education installed  
+- Student devices with Minecraft Education installed
 
----
-
-## 🔗 Helpful Resources
-- Login directions and screenshots:  
-  See **Teacher-Resources/Login-Directions.docx**  
+Login Directions  
+Teacher-Resources/Set-up-for-Coding-in-Minecraft-MakeCode-Python-TF.docx
