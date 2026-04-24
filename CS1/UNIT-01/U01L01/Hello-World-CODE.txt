@@ -1,0 +1,4 @@
+# <student name>
+# <date and assignment name go here>
+player.say("Hello World")
+player.say("I love coding in Minecraft!")
