@@ -17,14 +17,12 @@ loops.pause()
 
 This unit includes the following lessons:
 
-- **U01L01 — Hello World! / Communication**
-- **U01L02 — In the World / Create**
-- **U01L03 — Code with Variables and Data Types**
-- **U01L04 — [Add title]**
-- **U01L05 — [Add title]**
-- **U01L06 — [Add title]**
-- **U01L07 — [Add title]**
-- **U01L08 — [Add title]**
+- **U01L01 — Hello World!**
+- **U01L02 — Sequential Code**
+- **U01L03 — Tell a Story**
+- **U01L04 — Add Color to Text**
+- **U01L05 — Special Characters**
+- **U01L99 — Unit Assessments**
 
 
 Each lesson folder contains materials such as:
@@ -50,7 +48,5 @@ Unit-01
    U01L03
    U01L04
    U01L05
-   U01L06
-   U01L07
-   U01L08
+   U01L99
 ```

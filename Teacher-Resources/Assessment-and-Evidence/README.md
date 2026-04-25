@@ -51,3 +51,7 @@ Assessment Progression explains how assessment practices grow
 Formative Strategies supports what teachers do day‑to‑day
 
 Taken together, these resources aim to support teacher confidence, clarity, and sustainability when assessing coding learning in Minecraft Education.
+
+***Terms of Use***
+These three documents are shared under terms as follows:
+--Licensed under CC BY-NC-SA 4.0.
