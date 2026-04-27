@@ -1,0 +1,17 @@
+# myName
+# Use codes to create text with format
+player.say("§1Hello, blue") 
+player.say("§2Hello, green")
+player.say("§3Hello, aqua")
+player.say("§4Hello, dark red")
+player.say("§5Hello, dark purple")
+player.say("§6Hello, gold")
+player.say("§7Hello, grey")
+player.say("§8Hello, dark grey")
+player.say("§9Hello, dark blue")
+player.say("§aHello, green")
+player.say("§bHello, light blue")
+player.say("§cHello, red")
+player.say("§dHello, purple")
+player.say("§eHello, yellow")
+player.say("§fHello, white")
